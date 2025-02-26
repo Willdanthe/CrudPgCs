@@ -1,0 +1,2 @@
+Formas de conexão banco de dados relacional com C#
+1. ADO.NET (ActiveX data Objects): Ele faz conexão diretas com o banco de dadso, sem a necessidade de um servidor intermediário.
