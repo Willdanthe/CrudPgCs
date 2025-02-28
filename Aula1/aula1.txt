@@ -1,2 +1,10 @@
 Formas de conexão banco de dados relacional com C#
-1. ADO.NET (ActiveX data Objects): Ele faz conexão diretas com o banco de dadso, sem a necessidade de um servidor intermediário.
+1. ADO.NET (ActiveX data Objects): Ele faz
+conexão diretas com o banco de dados, sem a
+necessidade de um servidor intermediário.
+
+2. Entity Framework: É UM ORM QUE PERMITE A CONEXÃO COM BANCO DE DADSO RELACIONAL
+
+
+3. Dapper (Utilizado pra programa de alto
+desempenho): Permite Micro ORm que permite a conexão com banco de dados relacional. É mais rápido que o Entity, porém não tem muitos serviços.

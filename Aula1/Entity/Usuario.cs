@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
@@ -7,10 +8,11 @@ using System.Threading.Tasks;
 namespace Aula1_.Entity
 {
     
-    [Table("Usuario")] // Define o nome da tabela
+    [Table("usuario")] // Define o nome da tabela
     public class Usuario
     {
         [Column("id_usuario")] // Define explicitamente o nome da coluna
+        [Key]
         public int Id_usuario { get; set; }
         
         [Column("nome")]

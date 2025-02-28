@@ -12,12 +12,14 @@ namespace Aula1_.Entity
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Database=Aula1;Port=5432;Username=postgresql;Password=1234");
+            optionsBuilder.UseNpgsql("Host=localhost;Database=Aula1;Port=5432;Username=postgres;Password=1234");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Usuario>().ToTable("usuario"); // Aqui a gente mapeia a tabela usuários
-        } // Aqui a gente está garantindo que a tabela usuário vai ser usada para a tabela usuário no banco de dados
+            // Chave primária para id no user
+            
+        } // Aqui a gente está garantindo que a lista usuário vai ser usada para a tabela usuário no banco de dados
     }
 }
