@@ -1,0 +1,15 @@
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\bin\Debug\net8.0-windows\exemploForm.exe
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\bin\Debug\net8.0-windows\exemploForm.deps.json
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\bin\Debug\net8.0-windows\exemploForm.runtimeconfig.json
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\bin\Debug\net8.0-windows\exemploForm.dll
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\bin\Debug\net8.0-windows\exemploForm.pdb
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\exemploForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\exemploForm.AssemblyInfoInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\exemploForm.AssemblyInfo.cs
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\exemploForm.csproj.CoreCompileInputs.cache
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\exemploForm.sourcelink.json
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\exemploForm.dll
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\refint\exemploForm.dll
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\exemploForm.pdb
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\exemploForm.genruntimeconfig.cache
+C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\obj\Debug\net8.0-windows\ref\exemploForm.dll

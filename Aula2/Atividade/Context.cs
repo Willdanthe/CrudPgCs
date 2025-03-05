@@ -19,9 +19,9 @@ namespace Aula2.Atividade
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Usuario>().ToTable("usuario");
-            modelBuilder.Entity<Maquina>().ToTable("maquina");
-            modelBuilder.Entity<Software>().ToTable("software");
+            modelBuilder.Entity<Usuario>().ToTable("usuario","cr");
+            modelBuilder.Entity<Maquina>().ToTable("maquina","cr");
+            modelBuilder.Entity<Software>().ToTable("software","cr");
         }
 
 

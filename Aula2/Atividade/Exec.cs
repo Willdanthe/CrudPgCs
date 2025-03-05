@@ -11,11 +11,22 @@ namespace Aula2.Atividade
         {
             Crud cr = new Crud();
 
-            cr.InserirUsuario(1, "123", "Joao", 123, "TI");
-            cr.InserirUsuario(2, "456", "Maria", 456, "RH");
-            cr.InserirUsuario(3, "789", "Jose", 789, "Financeiro");
+            // cr.InserirUsuario(1, "Joao", "123", 123, "TI");
+            // cr.InserirUsuario(2, "Maria", "456", 456, "RH");
+            // cr.InserirUsuario(3, "Jose", "789", 789, "Financeiro");
+            // cr.InserirUsuario(4, "willdanter", "1011", 1011, "Ti");
 
-            cr.ListarUsuarios();
+            // cr.AtualizarUsuario(4,"Willdanthê");
+
+            // cr.DeletarUsuario(1);
+            // cr.DeletarUsuario(2);
+            // cr.DeletarUsuario(3);
+            // cr.DeletarUsuario(4);
+
+
+
+
+            // cr.ListarUsuarios();
         }
     }
 }

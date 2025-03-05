@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula1", "Aula1\Aula1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2\Aula2.csproj", "{29396343-47EE-4171-B4B0-05E9BD331428}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula3", "Aula3\Aula3.csproj", "{DC065F8D-CBC8-45E7-80E5-F2B4C03310DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsForms", "WindowsForms", "{E49D2BEC-F82B-4638-87FB-3C2291413D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemploForm", "WindowsForms\exemploForm\exemploForm.csproj", "{2B6E148F-57AF-4B2A-820B-44DD5C60BBEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,11 +26,22 @@ Global
 		{29396343-47EE-4171-B4B0-05E9BD331428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29396343-47EE-4171-B4B0-05E9BD331428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29396343-47EE-4171-B4B0-05E9BD331428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC065F8D-CBC8-45E7-80E5-F2B4C03310DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC065F8D-CBC8-45E7-80E5-F2B4C03310DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC065F8D-CBC8-45E7-80E5-F2B4C03310DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC065F8D-CBC8-45E7-80E5-F2B4C03310DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6E148F-57AF-4B2A-820B-44DD5C60BBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6E148F-57AF-4B2A-820B-44DD5C60BBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6E148F-57AF-4B2A-820B-44DD5C60BBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6E148F-57AF-4B2A-820B-44DD5C60BBEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E21933D-7564-421A-A59B-79F2AF92D152}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B6E148F-57AF-4B2A-820B-44DD5C60BBEB} = {E49D2BEC-F82B-4638-87FB-3C2291413D09}
 	EndGlobalSection
 EndGlobal
