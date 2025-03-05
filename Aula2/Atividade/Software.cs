@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Aula2.Atividade
 {
-    [Table("cr.software", Schema = "cr")]
+    [Table("software", Schema = "cr")]
     public class Software
     {
         [Key]

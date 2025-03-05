@@ -14,7 +14,7 @@ namespace Aula2.Atividade
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Database=Aula1;Username=postgres;Password=1234");
+            optionsBuilder.UseNpgsql("Host=localhost;Database=estudos;Username=postgres;Password=Admin1234");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
