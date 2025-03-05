@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Aula2.Atividade
 {
-    [Table("cr.usuarios",Schema = "cr")]
+    [Table("usuarios", Schema = "cr")]
     public class Usuarios
     {
         [Key]

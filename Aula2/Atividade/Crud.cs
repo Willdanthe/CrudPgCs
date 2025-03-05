@@ -22,7 +22,7 @@ namespace Aula2.Atividade
                         Ramal = ramal
                     });
                     db.SaveChanges();
-                        System.Console.WriteLine("Usuário Cadastrado com Sucesso!");
+                    System.Console.WriteLine("Usuário Cadastrado com Sucesso!");
 
                 }
             } catch (SystemException e)
@@ -93,7 +93,7 @@ namespace Aula2.Atividade
 
                     foreach (var usuario in usuarios)
                     {
-                        System.Console.WriteLine($"Id = {usuario.Id_usuario}, Nome = {usuario.Nome_Usuario},Password = {usuario.Password},Especialidade = {usuario.Especialidade},Ramal = {usuario.Ramal}");
+                        System.Console.WriteLine($"Id = {usuario.Id_usuario}, Nome = {usuario.Nome_Usuario}, Password = {usuario.Password}, Especialidade = {usuario.Especialidade}, Ramal = {usuario.Ramal}");
                     }
                 }
             }
