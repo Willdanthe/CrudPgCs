@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = exemploForm
-build_property.ProjectDir = C:\Users\willdanthealaman\Documents\GitHub\CrudC#\WindowsForms\exemploForm\
+build_property.ProjectDir = C:\Users\willdanthealaman\Documents\GitHub\CrudPgCs\WindowsForms\exemploForm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

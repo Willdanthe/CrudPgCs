@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xnUy8j9/fUw=",
+  "dgSpecHash": "CfRO2VjVkGE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\CrudC#\\Aula2\\Aula2.csproj",
+  "projectFilePath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\CrudPgCs\\Aula2\\Aula2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willdanthealaman\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\willdanthealaman\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

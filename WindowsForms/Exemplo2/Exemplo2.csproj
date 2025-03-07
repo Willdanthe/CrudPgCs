@@ -1,0 +1,12 @@
+﻿<!-- Para a gente executar de forma de Windows Foms, precisamos mudar a biblioteca do SDK pois ela é padrão para executar Forms -->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-Windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

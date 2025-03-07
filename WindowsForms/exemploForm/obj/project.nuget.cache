@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9tavl0H9iGw=",
+  "dgSpecHash": "vNe2CE6+Wcg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\CrudC#\\WindowsForms\\exemploForm\\exemploForm.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\willdanthealaman\\Documents\\GitHub\\CrudPgCs\\WindowsForms\\exemploForm\\exemploForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willdanthealaman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\willdanthealaman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\willdanthealaman\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

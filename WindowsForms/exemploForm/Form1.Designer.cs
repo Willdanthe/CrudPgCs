@@ -59,7 +59,7 @@ partial class Form1
         this.button1.Location = new Point(30,40);
         this.button1.Name = "button1";
         this.button1.Size = new Size(100,20);
-        this.button1.Click += new EventHandler(this.button1_Click); // Define o evento de clique do button, esse button1_CLick é um método que será criado para tratar o evento de clique do botão
+        // this.button1.Click += new EventHandler(this.button1_Click); // Define o evento de clique do button, esse button1_CLick é um método que será criado para tratar o evento de clique do botão
 
 
         this.Controls.Add(label1);
