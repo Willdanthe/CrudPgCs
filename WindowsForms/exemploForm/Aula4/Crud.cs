@@ -55,6 +55,7 @@ namespace WindowsForms.Aula4
                         {
                             string linha = $"ID: {dr["id_usuario"]}; Nome: {dr["nome"]}; Email: {dr["email"]}";
                             usuario.Add(linha);
+                            
                         }
                     }
                 }

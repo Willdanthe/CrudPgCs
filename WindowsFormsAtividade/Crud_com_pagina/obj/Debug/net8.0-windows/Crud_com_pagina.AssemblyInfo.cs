@@ -10,13 +10,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Aula3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Crud_com_pagina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad9724eb755facc3bfbd00b381a617e45133cb0e")]
-[assembly: System.Reflection.AssemblyProductAttribute("Aula3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Aula3")]
+[assembly: System.Reflection.AssemblyProductAttribute("Crud_com_pagina")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Crud_com_pagina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
